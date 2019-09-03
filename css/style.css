@@ -145,17 +145,4 @@ textarea{
 .error{
     display: none;
 }
-@media (max-width: 570px){
-    body{
-        margin-left: 0;
-        margin-right: 0;
-    }
-    .img{
-        float: none;
-        margin-left: 135px;
-    }
-    .about{
-        text-align: center;
-    }
-}
 
