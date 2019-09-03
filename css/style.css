@@ -1,6 +1,9 @@
 body{
     border: 2px solid deepskyblue;
     line-height: 2em;
+    margin-left: 200px; 
+    margin-right: 200px; 
+    box-shadow: deepskyblue 0 0 10px 5px;
 }
 h2, h3{
     color: deepskyblue;
